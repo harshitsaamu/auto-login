@@ -1,7 +1,7 @@
 from selenium import webdriver
 
-usernameStr = 'RA1511003010536'
-passwordStr = 'Polu=gaddar1'
+usernameStr = 'user'
+passwordStr = 'pass'
 
 browser = webdriver.Chrome()
 browser.get(('https://192.168.10.3/connect/PortalMain'))
